@@ -1,2 +1,6 @@
-This is a welcome file.
+This is a welcome file
 This text is from branch-1
+This text is from branch-2 : new
+
+
+
